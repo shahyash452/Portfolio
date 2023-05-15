@@ -1,0 +1,53 @@
+{
+  "Color": "#1e1e25",
+  "Head": { "title": "Yash Shah", "NavbarName": "Yash Shah" },
+  "HomePage": {
+    "name": "Yash Shah",
+    "Position": [
+      "Machine Learning",
+      "Data Science",
+      "MERN Stack Developer",
+      ""
+    ],
+    "description": "I am a highly curious individual who finds joy in exploring and analyzing data."
+  },
+  "AboutPage": {
+    "AboutParagraph": "I am a highly curious and detail-oriented individual with a passion for exploring new ideas and concepts, as well as playing with data to uncover hidden patterns and insights. I am also\nskilled in web development, with experience creating functional and visually appealing user interfaces that enhance user experience.",
+    "ImageLink": "https://media.licdn.com/dms/image/C4D03AQHUiIbKGg6AXg/profile-displayphoto-shrink_800_800/0/1645460844821?e=1689811200&v=beta&t=vVqfpUwK3FY3GIL7mq5_Tet90CSo3j25A_FXeIJKtC0"
+  },
+  "Skills": [
+    "Machine Learning",
+    "Data Science",
+    "Data Analytics",
+    "Data Visualization",
+    "ReactJS",
+    "NodeJS",
+    "MongoDB"
+  ],
+  "Projects": [
+    {
+      "title": "ScholarShelf",
+      "ImageLink": "https://scholarshelf.vercel.app/static/media/Transparent_logo.05fb430f40f5129c0f9e.png",
+      "Status": "Completed",
+      "ProjectName": "ScholarShelf",
+      "Technologies": ["ReactJS", "MongoDB", "NodeJS", "ExpressJS"],
+      "Description": "ScholarShelf is a platform exclusively designed for Charusat Students. ScholarShelf is developed for the sole purpose of being an effective way to communicate and meet the requirements of students who are willing to enhance their learning. It currently has more than 1.2K visitors and 5k page views",
+      "DemoLink": "https://scholarshelf.vercel.app/"
+    },
+    {
+      "title": "IndianStartupAnalytics",
+      "ImageLink": "",
+      "Status": "Completed",
+      "ProjectName": "IndianStartupAnalytics",
+      "Technologies": ["Python", "Data Analysis"],
+      "Description": "In this project, I prepared and cleaned data related to Indian startups, perhaps Python to automate the process and make it more efficient. Once you had a clean dataset, you likely used various techniques and algorithms in Python to analyze the data, uncovering patterns, trends, and insights that were not immediately apparent and visualizing it ",
+      "DemoLink": "https://github.com/shahyash452/IndianStartupAnalytics/blob/master/Startup_DataAnalysis.ipynb"
+    }
+  ],
+  "Contact": {
+    "Email": "shahyash452@gmail.com",
+    "Github": "https://github.com/shahyash452",
+    "Twitter": "https://twitter.com/YshShah1",
+    "LinkedIn": "https://www.linkedin.com/in/yash-shah-295952219/"
+  }
+}
